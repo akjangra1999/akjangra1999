@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://www.linkedin.com/in/akshay-kumar-718870316/" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
