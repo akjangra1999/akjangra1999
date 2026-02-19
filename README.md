@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=akjangra1999&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
