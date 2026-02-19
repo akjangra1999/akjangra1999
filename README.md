@@ -37,32 +37,35 @@ Currently seeking Data Analyst opportunities in data-driven organizations where 
 `SQL` • `Python (Pandas, NumPy)` • `Excel`
 
 ### Data Visualization
-`Power BI` • `Tableau` • `Matplotlib` • `Seaborn`
+`Power BI`  • `Matplotlib` • `Seaborn`
 
 ### Databases
-`MySQL` • `PostgreSQL` • `SQL Server`
+`MySQL`  • `SQL Server`
 
 ### Tools
-`Git` • `GitHub` • `Jupyter Notebook` • `VS Code`
+`GitHub` • `Jupyter Notebook` • `Google Cloud`
 
 ---
 
 ## 📊 Featured Analytics Projects
 
-### 📌 Sales Analytics Dashboard
-- Designed interactive Power BI dashboard analyzing revenue trends, profit margins, and regional performance
-- Improved business visibility through KPI tracking
-- Tech Used: Power BI, Excel
+### 📌 Bank Loan Performance & Risk Analysis Dashboard
+•	Designed and delivered an end-to-end Bank Loan Performance Dashboard using Power BI, integrating MySQL data and performing preprocessing with Python (Pandas, NumPy).
+•	Performed in-depth exploratory data analysis to identify repayment trends, default risk segments (Good vs Bad loans) revenue patterns, and key financial KPIs.
+•	Built dynamic visual reports (state-wise, tenure-wise, purpose-wise analysis) enabling clear business insights and•	 supporting data-driven lending decisions.
 
-### 📌 Customer Behavior & Segmentation Analysis
-- Extracted and transformed data using SQL
-- Applied Python for segmentation & trend identification
-- Generated actionable customer insights
 
-### 📌 End-to-End SQL + Python Analysis
-- Performed data cleaning, EDA, and visualization
-- Optimized SQL queries for performance improvement
-- Delivered structured business reports
+### 📌 HR Attrition Analysis
+•	Cleaned and transformed 1,400+ employee records using •SQL, Excel, and Power Query, ensuring accurate and analysis-ready data for HR attrition insights.
+•	Developed an interactive Power BI dashboard to visualize attrition trends by age, department, job role, and salary band, using slicers and DAX measures (Attrition %, Hiring %, Avg Salary, Tenure) for dynamic reporting.
+•	Conducted exploratory data analysis to identify key attrition drivers such as low salary ranges and long tenure, delivering actionable insights to support data-driven HR decisions.
+
+
+### 📌  Retail Sales & Inventory Insights Dashboard
+•	Designed an interactive Grocery Store Sales Dashboard in Excel to monitor $1.2M in total sales, average sales, item count, outlet performance, and rating metrics using Pivot Tables, slicers, and KPI cards.
+•	Analyzed 8,500+ product-level records using SQL to identify top-performing categories, outlet size contribution, tier-wise sales distribution, and revenue trends across locations.
+•	Conducted category-wise and outlet segmentation analysis (Fat Content, Item Type, Outlet Size, Tier Levels) and generated actionable insights to support sales optimization and inventory planning.
+
 
 👉 Explore repositories for complete documentation & datasets.
 
@@ -79,9 +82,9 @@ Currently seeking Data Analyst opportunities in data-driven organizations where 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 📧 Email: your.email@example.com  
-- 📍 Location: India  
+- 💼 LinkedIn: https://www.linkedin.com/in/akshay-kumar-718870316/
+- 📧 Email: akjanra1999@gmail.com
+- 📍 Location: Gurugram, Haryana, India  
 
 ---
 
